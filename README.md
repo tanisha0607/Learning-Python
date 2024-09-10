@@ -7,11 +7,19 @@ These beginner-level projects are designed to introduce learners to basic Python
 
 ## Projects
 Calculator: A simple calculator that performs basic arithmetic operations like addition, subtraction, multiplication, and division.
+
 Timer: A countdown timer that takes user input for the time and counts down, notifying when time is up.
+
 Temperature Conversion: Converts temperature between Celsius and Fahrenheit.
+
 Dice Simulator: Simulates rolling a dice with random outcomes.
+
 Email Slicer: Extracts useful information (e.g., username and domain) from an email address.
+
 Compound Interest Calculator: A tool to calculate compound interest over a period of time.
+
 Rock, Paper, Scissors: A game where the user plays Rock, Paper, Scissors against the computer.
+
 Shopping Cart Program: A command-line application that allows users to add, remove, and view items in a shopping cart.
+
 Slot Machine: Simulates a slot machine with random outcomes and tracks the player's balance.
